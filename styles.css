@@ -1,0 +1,42 @@
+
+.top {
+	color: white;
+  text-align: center;
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.5;
+  background-color: rgb(62, 69, 134)
+ 
+}
+
+ul { display: inline-block; text-align: left; }
+
+a:link {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {color: rgb(106, 216, 250);}
+
+a:hover {
+  color: rgb(166, 81, 216);
+  text-decoration: underline;
+}
+
+.flex-item{
+  background-color: rgb(13, 49, 83);
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.padding{
+      background-color: rgb(94, 58, 196);
+    align-self: center;
+}
+
+.link-font{
+  font-size:20px;
+
+}
+
