@@ -1,6 +1,5 @@
 # ID_Assignment 1
-GitHub Page:
-Wireframe:
+GitHub Page:https://tan-weijun.github.io/tan-weijun.github.io-IDAssg1/
 
 This assignment is on creating a Portfolio to attract potential headhunters from the IT industry to reach out to me.
 <br>
